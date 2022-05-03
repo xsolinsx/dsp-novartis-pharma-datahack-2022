@@ -1,0 +1,6 @@
+beautifulsoup4
+jupyter
+openpyxl
+pandas
+requests
+xlrd

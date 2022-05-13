@@ -1,6 +1,13 @@
 beautifulsoup4
+fake-useragent
+gensim
 jupyter
+matplotlib
 openpyxl
 pandas
+pypdf2
 requests
+seaborn
+spacy
+tldextract
 xlrd
